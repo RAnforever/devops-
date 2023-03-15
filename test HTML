@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>test HTML</title>
+</head>
+<body>
+	<h1 align="center">HELLO WORLD</h1>
+	<hr color='#336699'/>
+
+</body>
+</html>
+
